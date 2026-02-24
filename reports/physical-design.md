@@ -1,3 +1,4 @@
+-# note: might be a bit outdated
 # Physical Design
 
 As only one person can use the server at once, implementing concurrency is not 
