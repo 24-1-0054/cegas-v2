@@ -1,3 +1,4 @@
+-# might be a bit outdated
 # Normalization Status Notes
 
 ## Table student
