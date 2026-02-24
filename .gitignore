@@ -1,0 +1,3 @@
+./db/csv/*.csv
+./logs/
+./app/src/__pycache__/
